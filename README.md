@@ -25,6 +25,6 @@ d) Fully connected layer
 # Dataset Details
 The dataset is provided by Kaggle which contains 40479 labeled satellite images and there are 17 classes. These classes address different aspects of the image content, for example, atmospheric conditions and land cover / user. In the training dataset, the labels or classes are not evenly distributed. There are two types of images, JPG and TIF. Both JPG and TIF images are 256x256 pixels. The JPG images have 3 channels - Red, Green, and Blue. The TIF images have 4 channels - Red, Green, Blue, and IR. The labels have significant correlations. For example, every image has exactly one atmospheric condition label from among clear, haze, partly cloudy and cloudy. Labels like “habitation” tend to occur with other markers of human activity. “Cultivation” and “agriculture” don’t co-occur in images.
 
-# Dataset can be downloaded from planet-understanding-the-amazon-from-space
+Dataset can be downloaded from planet-understanding-the-amazon-from-space
 
-# IDE: PyCharm, Deep Learning Framework: TensorFlow, Programming Language: Python
+IDE: PyCharm, Deep Learning Framework: TensorFlow, Programming Language: Python
