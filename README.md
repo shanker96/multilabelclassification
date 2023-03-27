@@ -28,3 +28,6 @@ The dataset is provided by Kaggle which contains 40479 labeled satellite images 
 Dataset can be downloaded from planet-understanding-the-amazon-from-space
 
 IDE: PyCharm, Deep Learning Framework: TensorFlow, Programming Language: Python
+
+![img](https://user-images.githubusercontent.com/20686097/227814587-9ab4721f-f964-42ff-a689-93da290cf9dc.png)
+
