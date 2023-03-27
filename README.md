@@ -16,10 +16,10 @@ The specific land type favouring specific forestation can be determined.
 2) Label pre-processing
 3) Division of training and testing dataset
 4) Convolutional Neural Network
-a) Convolutional layer
-b) Pooling layer
-c) Flatten layer
-d) Fully connected layer
+  a) Convolutional layer
+  b) Pooling layer
+  c) Flatten layer
+  d) Fully connected layer
 5) Accuracy Measurement
 
 # Dataset Details
