@@ -1,4 +1,3 @@
-# multilabelclassification
 # Multilabel (Atmospheric Conditions and Land Cover) Classification of Amazon Rainforest Satellite Images
 # Project Idea
 To help governments and local stakeholders understand the location of deforestation and human encroachment on forests, This project analyzes small-scale deforestation and human activity influences from Amazon Rainforest satellite images. The goal of this analysis is to correctly label images with atmospheric conditions, common land cover / land use phenomena, and rare land cover / land use phenomena. My algorithm will use a convolutional network to output a set of predicted labels. In this project, I will explore and analyze how different architectures of convolutional neural network models perform in terms of training time, f2 score and generalization ability.
